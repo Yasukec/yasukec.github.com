@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(0, 255, 213);
+}
+a{
+    font-size: x-large;
+    background-color: beige;
+}
+p{
+    font-family: sans-serif;
+    font-size: 2em;
+}
+h1{
+    font-family: unset;
+    background-color: yellow;
+    font-size: 60px;
+}
