@@ -12,6 +12,6 @@
 </head>
 <body>
     START HERE
-    <a href="intro.html">Next</a>
+    <a href="intro.html">Start</a>
 </body>
 </html>
