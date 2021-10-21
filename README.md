@@ -10,6 +10,8 @@
 
 </head>
 <body>
+    <p>Lorentz Voltaire</p>
+    <p>Lorentzo Voltaire</p>
     START HERE
     <a href="intro.html">Start</a>
 </body>
