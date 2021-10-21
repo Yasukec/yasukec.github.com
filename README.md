@@ -11,7 +11,7 @@
 
 </head>
 <body>
-    
-    <a href="page1.html">Next</a>
+    START HERE
+    <a href="intro.html">Next</a>
 </body>
 </html>
