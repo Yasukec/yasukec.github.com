@@ -5,17 +5,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="gov1.css">
 
     <title>How a bill becomes a law.</title>
-    <style>
-        body{
-    background-image: url(how-a-bill-becomes-a-law.png);
-}
-    a{
-        font-size: x-large;
-        background-color: beige;
-    }
-    </style>
 
 </head>
 <body>
